@@ -13,7 +13,7 @@ The call is
 
 PUT /api/v1/courses/:course_id/features/flags/:feature
 
-State = “on”
+State = "on"
 
 This call will fail if a parent account sets a feature flag for the same feature in any state other than “allowed”.
 '''
