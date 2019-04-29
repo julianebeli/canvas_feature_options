@@ -21,7 +21,7 @@ import json
 import __init__
 from api.requestor2 import API
 
-api = API('prod')
+api = API('beta')
 
 
 def action(course):
